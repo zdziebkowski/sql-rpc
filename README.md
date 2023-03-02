@@ -55,3 +55,5 @@ product total_sold_quantity rank_order
 To provide answers for all of questions 10 SQL queries have been prepared. Also to dive deeper there are 3 additional queries presenting top and bottom 5 performing customers, markets and products.
 
 All answers are presented as a Power Point presentation to keep the best simulation of this dynamic bussines situation.
+
+Challange completed with MySQL.
