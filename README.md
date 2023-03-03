@@ -4,6 +4,14 @@ Repository contains SQL code to provide insights to danagement in consumer goods
 (details: https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
+To provide answers for all of questions 10 SQL queries have been prepared. Also to dive deeper there are 3 additional queries presenting top and bottom 5 performing customers, markets and products.
+
+All answers are presented as a Power Point presentation to keep the best simulation of this dynamic bussines situation - the presentation with audio available in repo.
+
+Challange completed with MySQL.
+
+
+
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
@@ -51,9 +59,3 @@ Ad-hoc requests:
 10. Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, division product_code 
 product total_sold_quantity rank_order
 
-
-To provide answers for all of questions 10 SQL queries have been prepared. Also to dive deeper there are 3 additional queries presenting top and bottom 5 performing customers, markets and products.
-
-All answers are presented as a Power Point presentation to keep the best simulation of this dynamic bussines situation.
-
-Challange completed with MySQL.
