@@ -1,6 +1,6 @@
 # sql-rpc (resume project challenge)
 SQL project for #codebasicsresumeprojectchallenge
-Repository contains SQL code to provide insights to danagement in consumer goods domain 
+Repository contains SQL code to provide insights to management in consumer goods domain 
 (details: https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
