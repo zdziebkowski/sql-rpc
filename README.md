@@ -6,9 +6,7 @@ Repository contains SQL code to provide insights to management in consumer goods
 
 To provide answers for all of questions 10 SQL queries have been prepared. Also to dive deeper there are 3 additional queries presenting top and bottom 5 performing customers, markets and products.
 
-All answers are presented as a [Power Point](https://github.com/zdziebkowski/sql-rpc/blob/main/RPC%20presentation.pdf) presentation to keep the best simulation of this dynamic bussines situation - the presentation with audio available in repo: 
-[480p](https://github.com/zdziebkowski/sql-rpc/blob/main/RPC_audio_presentation_480p.mp4) or 
-[780p - zipped](https://github.com/zdziebkowski/sql-rpc/blob/main/RPC_audio_presentation_720p.7z)
+All answers are presented as a [Power Point](https://github.com/zdziebkowski/sql-rpc/blob/main/RPC%20presentation.pdf) presentation to keep the best simulation of this dynamic bussines situation.
 
 
 Challange completed with [MySQL](https://github.com/zdziebkowski/sql-rpc/blob/main/RPC_SQL_queries.sql).
